@@ -57,4 +57,9 @@
 : All of y’all are so cutee AHH • novel games • horror games • Hoyoverse related stuff & more!! feel free to tell me about your interests
 </span>
 
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=varqsa1nt&color=c14977&style=flat-square" />
+
 </div>
