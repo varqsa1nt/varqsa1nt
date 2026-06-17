@@ -29,7 +29,19 @@
 <img src="https://files.catbox.moe/nv5tih.gif" width="100" />
 
 </div>
+
 <div align="center">
+
+<a href="https://euph1c.carrd.co/" target="_blank">✦ card</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://still-in-process.straw.page/" target="_blank">✦ strawpage</a>
+<br><br>
+<a href="https://kkk1lana.atabook.org/" target="_blank">✦ atabook</a>
+
+</div>
+<div align="center">
+
+<br><br>
 
 <img src="https://img.shields.io/badge/info%20abt%20me-d88195?style=flat&labelColor=000000" /> 
 <span style="font-family: Arial, sans-serif;">
@@ -37,7 +49,6 @@
 </span>
 
 <br><br>
-
 <img src="https://img.shields.io/badge/dni-d88195?style=flat&labelColor=000000" /> 
 <span style="font-family: Arial, sans-serif;">
  : People with no common sense, rude for no reason, or spreading hate. Please do NOT interact if you sexualize dolls/minors/games/etc. Thank you!!
