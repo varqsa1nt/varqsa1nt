@@ -45,7 +45,7 @@
 
 <img src="https://img.shields.io/badge/info%20abt%20me-d88195?style=flat&labelColor=000000" /> 
 <span style="font-family: Arial, sans-serif;">
-: Euphoria or Lili, she/her • INFP • 5w4 • white • Libra • 21/10 • Bisexual okay
+: Euphoria or Lili, she/her • INFP • 2w1.3 • white • Libra • 21/10 • Bisexual okay
 </span>
 
 <br><br>
