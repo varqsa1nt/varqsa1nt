@@ -25,7 +25,7 @@
 <div align="center">
 
 <img src="https://i.postimg.cc/RZL911Kc/in-love.gif" width="100" />&nbsp;&nbsp;
-<img src="https://blinkies.cafe/b/display/0026-iheart2.gif" width="190" />&nbsp;&nbsp;
+<img src="https://i1.glitter-graphics.org/pub/281/281111qnywm02nk3.gif" width="200" />&nbsp;&nbsp;
 <img src="https://files.catbox.moe/nv5tih.gif" width="100" />
 
 </div>
