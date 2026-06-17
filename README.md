@@ -55,7 +55,6 @@
 </span>
 
 <br><br>
-
 <img src="https://img.shields.io/badge/love%20%26%20enjoy-d88195?style=flat&labelColor=000000" /> 
 <span style="font-family: Arial, sans-serif;">
 : All of y’all are so cutee AHH • novel games • horror games • Hoyoverse related stuff & more!! feel free to tell me about your interests
