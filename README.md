@@ -31,19 +31,23 @@
 </div>
 <div align="center">
 
-<img src="https://img.shields.io/badge/info%20abt%20me-d88195?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/info%20abt%20me-d88195?style=flat&labelColor=000000" /> 
 <span style="font-family: Arial, sans-serif;">
-info : Euphoria or Lili, she/her • INFP • 5w4 • white • Libra • 21/10 • Bisexual okay
+: Euphoria or Lili, she/her • INFP • 5w4 • white • Libra • 21/10 • Bisexual okay
 </span>
+
 <br><br>
-<img src="https://img.shields.io/badge/dni-d88195?style=for-the-badge&labelColor=000000" />
+
+<img src="https://img.shields.io/badge/dni-d88195?style=flat&labelColor=000000" /> 
 <span style="font-family: Arial, sans-serif;">
-People with no common sense, rude for no reason, or spreading hate. Please do NOT interact if you sexualize dolls/minors/games/etc. Thank you!!
+ : People with no common sense, rude for no reason, or spreading hate. Please do NOT interact if you sexualize dolls/minors/games/etc. Thank you!!
 </span>
+
 <br><br>
-<img src="https://img.shields.io/badge/love%20%26%20enjoy-d88195?style=for-the-badge&labelColor=000000" />
+
+<img src="https://img.shields.io/badge/love%20%26%20enjoy-d88195?style=flat&labelColor=000000" /> 
 <span style="font-family: Arial, sans-serif;">
-All of y’all are so cutee AHH • novel games • horror games • Hoyoverse related stuff & more!! feel free to tell me about your interests
+: All of y’all are so cutee AHH • novel games • horror games • Hoyoverse related stuff & more!! feel free to tell me about your interests
 </span>
 
 </div>
